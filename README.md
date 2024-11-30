@@ -4,6 +4,16 @@ Generate an API on-the-fly with LLMs.
 
 ---
 
+## Warning
+
+This project will run arbitrary code from an LLM on your machine. If you don't want that to happen, don't install this project.
+
+## Install
+
+```
+pip install omni-binding-api
+```
+
 ## Usage
 
 Create an `omni` context:
