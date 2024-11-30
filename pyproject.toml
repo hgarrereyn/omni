@@ -1,5 +1,5 @@
 [project]
-name = "omniapi"
+name = "omni-binding-api"
 version = "0.0.1"
 authors = [
   { name="Harrison Green", email="harrisonmichaelgreen@gmail.com" },
