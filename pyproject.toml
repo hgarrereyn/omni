@@ -1,0 +1,21 @@
+[project]
+name = "omniapi"
+version = "0.0.1"
+authors = [
+  { name="Harrison Green", email="harrisonmichaelgreen@gmail.com" },
+]
+description = "LLM-powered omni api"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "litellm>1.53.1"
+] 
+
+[project.urls]
+Homepage = "https://github.com/hgarrereyn/omni"
+Issues = "https://github.com/hgarrereyn/omni/issues"
